@@ -1,4 +1,6 @@
 # project-one---sphinx
+QUESTION -	What types of causes receive the most money?
+
 This notebook looks at the correlation between the type of donation and the amount of money given. It features two main graphs, showing the total amount of donations for 2015 - 2018 broken down by cause type and the yearly change in donation amounts for the top five highest earning causes over the course of four years.
 
 The data was pulled from the Chronicle of Philanthropy, put into four seperate csv files and read into the notebook for analysis. It revealed that the top five recent highest earning causes are:
