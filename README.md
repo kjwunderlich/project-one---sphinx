@@ -8,8 +8,8 @@ The data was pulled from the Chronicle of Philanthropy, put into four seperate c
 Colleges and universities, 
 Health, 
 Foundations, 
-Arts, 
-Community foundations
+Arts
+and Community foundations
 
 Colleges and universities is by far the highest earning cause, with a four year total of over $20 billion. There was also an interesting uptick in the donations to foundations in 2017, with a massive uptick from roughly half a billion in 2016 to 4 billion in 2017 and then a return to about half a billion in 2018. Health also saw an uptick in donations in 2017, growing from 1 to 2 billion from 2016 - 2017. 
 
