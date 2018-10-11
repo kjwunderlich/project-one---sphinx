@@ -5,9 +5,9 @@ This notebook looks at the correlation between the type of donation and the amou
 
 The data was pulled from the Chronicle of Philanthropy, put into four seperate csv files and read into the notebook for analysis. It revealed that the top five recent highest earning causes are:
 
-Colleges and universities, 
-Health, 
-Foundations, 
+Colleges and universities 
+Health 
+Foundations 
 Arts
 and Community foundations
 
