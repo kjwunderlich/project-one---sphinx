@@ -26,3 +26,7 @@ The wealth category groupings were bucketed to allow for distinction among 192 u
 Overall 95% of all donations came from Technology followed by Manufacturing, Family Wealth and Real Estate.
 
 There was a relationship found with a donors source of wealth and their donation amount. Wealth categories that command more value in the market yielded higher donations. Healthcare and Retail sources of wealth yielded nearly identical amounts of donations over the 4 years with Transportation and Education being the lowest. 
+
+QUESTION - What is the geographic concentration of Philanthropy? 
+Unsurprisingly, the highest concentration of donors and recipients were in larger population centers.  
+There was a fair amount of regional loyalty.  Donors from a state often gave to organizations in their same state. 
