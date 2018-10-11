@@ -15,6 +15,8 @@ Colleges and universities is by far the highest earning cause, with a four year 
 
 NOTE: 2018 donation numbers will be lower than final numbers as the year has not ended yet. 
 
+QUESTION - What is the correlation between donor source of wealth and amount of money given over the course of recent years? 
+
 With regard to the correlation between donor source of wealth and amount of money given over the course the four years 2015 to 2018:
 
 The largest donation of $1.8 billion was made to a Chan Zuckerberg Foundation from Mark Zuckerberg and Priscilla Chan in 2017. Their source of wealth was in Technology. Notably their residence of California is of no surprise.
