@@ -31,7 +31,9 @@ QUESTION - What is the geographic concentration of Philanthropy? How can this be
 Unsurprisingly, the highest concentration of donors and recipients were in larger population centers.  
 There was a fair amount of regional loyalty, many donors from a state often gave to organizations in their same state. 
 The raw data only contained state level geographic information.  In order to use GMAPs there needed to be latitude and longitude coordinates. The existing dataframe was merged with another source of geographic coordinates by state.  These generalized state level coordinates were then mapped using GMAPs to provide a spatial understanding of the location of both donors and recipients.
-Matts_Sphinx.ipynb with 1000-largest-us-cities-by-population-with-geographic-coordinates.csv, cop_gifts_1518_20181011.csv, statelatlong.csv, plus chronicle_data2015-2018.csv NOTE: my code uses " from config_googlemaps import gkey " modify your config file for google maps as needed.
+Matts_Sphinx.ipynb with 1000-largest-us-cities-by-population-with-geographic-coordinates.csv, cop_gifts_1518_20181011.csv, statelatlong.csv, plus chronicle_data2015-2018.csv
+NOTE: my code uses " from config_googlemaps import gkey " modify your config file for google maps as needed.
+
 Data Sources:https://www.philanthropy.com
 https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations  https://public.opendatasoft.com/explore/dataset/1000-largest-us-cities-by-population-with-geographic-coordinates/information/?sort=-rank&basemap=jawg.streets&location=3,44.55855,-114.05683
 
