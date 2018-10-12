@@ -31,6 +31,8 @@ QUESTION - What is the geographic concentration of Philanthropy? How can this be
 Unsurprisingly, the highest concentration of donors and recipients were in larger population centers.  
 There was a fair amount of regional loyalty.  Donors from a state often gave to organizations in their same state. 
 The raw data only contained state level geographic information.  In order to use GMAPs there needed to be latitude and longitude coordinates. The existing dataframe was merged with another source of geographic coordinates by state.  These generalized state level coordinates were then mapped using GMAPs to provide a spatial understanding of the location of both donors and recipients.
+Data Sources:https://www.philanthropy.com
+https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations  https://public.opendatasoft.com/explore/dataset/1000-largest-us-cities-by-population-with-geographic-coordinates/information/?sort=-rank&basemap=jawg.streets&location=3,44.55855,-114.05683
 
 QUESTION? - How have total amount of donations changed in the last 4 years?
 Based on the graphical representation of the Annual calculations of total donations, the highest amount of donation from all donors was made in 2017. However, as demonstrated by the graph it should me noted that there is a gradual increase in donation amount between 2015 and 2017 and although 2018 currently has the lowest total amount of donations, the year isn't over yet, and the data obtained on donations for the years 2015 through 2018 don't include details about the months, dates or days on which donations were made - a limitation faced in analysing our data
